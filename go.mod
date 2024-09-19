@@ -1,4 +1,4 @@
-module github.com/spaaws/book-api
+module github.com/Caiorhcp/book-api
 
 go 1.20
 

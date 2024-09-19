@@ -3,9 +3,9 @@ package controllers
 import (
 	"net/http"
 
+	"github.com/Caiorhcp/book-api/config"
+	"github.com/Caiorhcp/book-api/models"
 	"github.com/gin-gonic/gin"
-	"github.com/spaaws/book-api/config"
-	"github.com/spaaws/book-api/models"
 )
 
 func GetBooks(c *gin.Context) {
